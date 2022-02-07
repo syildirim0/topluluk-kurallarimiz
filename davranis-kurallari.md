@@ -12,6 +12,7 @@ Patika.dev Discord kanalı, yazılımcılar için online bir topluluktur. Bu kan
 * DM(Direct Message) Tutumumuz	
 * Reklam & Spam	
 * Barışçıl Çözümler	
+
 - Sonuçlar	
 - Yöneticiler	
 
