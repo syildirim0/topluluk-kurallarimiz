@@ -1,4 +1,4 @@
-#Yöneticiler
+# Yöneticiler
 
 Ocak 2022 itibariyle Patika Discord Yöneticileri:
 
