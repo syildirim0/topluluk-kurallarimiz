@@ -7,5 +7,5 @@ Patika Discord, birçok kanalı bulunan ve çok sayıda farklı insandan oluşan
 * Son birkaç günlük mesajları okuyun.
 * Yararlı ipuçları için kanal konusunu inceleyin.
 * Kanal ayrıntılarına tıklayın ve hakkında bölümünü okuyun, hangi mesajların sabitlendiğine dair bir fikir edinin.
-* 
+
 ❗ Aynı mesajı birden fazla kanala göndermek spam yapmaktır. Lütfen spam yapmayın.
