@@ -5,4 +5,4 @@ Direkt reklam davranışını belirlemek kolay olsa da, açık olmayan reklam da
 * Gönderi için açık bir niyet belirten ticari olarak kabul edilebilecek bir mesaj göndermeden önce kanaldan izin isteyin ve,
 * Kanaldaki katılımcıların yanıtını dinleyin veya buna göre hareket edin.
 Toplulukla etkileşime girdikten sonra hala belirli bir mesajın reklam olup olmadığını merak ediyorsanız; lütfen kendisini, topluluğa yardımcı olmaya adamış kişilerden birine sorun örneğin:
-## [Yöneticiler]()
+## [Yöneticiler](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/y%C3%B6neticiler.md)
