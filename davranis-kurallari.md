@@ -41,7 +41,6 @@ Bireysel görüşlerin üzerinde saygılı davranışa değer veririz. Saygılı
 * Aşağılayıcı, ayrımcı, taciz edici, nefret dolu veya fiziksel olarak tehdit edici davranış, konuşma ve görüntülerden kaçının.
 * Emin değilseniz, varsaymak yerine birine sorun. Hayır, gerçekten. Yöneticilere sormanız yeterli. Olaydan sonra söylediğin veya yaptığın bir şeyi duymaktansa senden haber almayı tercih ederiz ve yardım etmek için buradayız.
 * Seyirci olmayın, lider olun. Rol modeli saygılı davranış, ancak aynı zamanda saygısızlığı gördüğünüzde ele almanıza da yardımcı olur.
-* 
 Aktif üyelerin bu topluluk dışındaki saygısız davranışları, Yöneticilerin takdirine bağlı olarak bu davranış kurallarının ihlali olarak değerlendirilebilir.
 
 ## [Gizlilik](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/gizlilik.md)
