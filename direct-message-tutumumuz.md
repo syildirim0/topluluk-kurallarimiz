@@ -8,4 +8,4 @@ Doğrudan mesaj (“DM”), bir veya daha fazla diğer üyeye gönderilen özel 
 DM’den mesaj atacağınız kişiye arkadaşlık isteği gönderin. Kabul ettiği taktirde DM üzerinden iletişime geçebilirsiniz.
 Eğer DM üzerinden mesaj almak istemiyorsanız kişisel ayarlarınız üzerinden Direkt Mesajlar kısmını kapatabilirsiniz: 
 
-Örnek olarak:
+
