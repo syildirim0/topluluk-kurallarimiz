@@ -61,7 +61,7 @@ Patika Discord, birçok kanalı bulunan ve çok sayıda farklı insandan oluşan
 
 ❗ Aynı mesajı birden fazla kanala göndermek spam yapmaktır. Lütfen spam yapmayın.
 
-## [DM(Direct Message) Tutumumuz](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/direct-message-tutumumuz.md)
+## [DM Tutumumuz](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/direct-message-tutumumuz.md)
 
 Doğrudan mesaj (“DM”), bir veya daha fazla diğer üyeye gönderilen özel bir mesajdır. Tanımadığınız başka bir üyeye DM göndermek alıcı için can sıkıcı olabilir. Hiç iletişim kurmadığınız bir üyeye DM göndermeden önce şunları göz önünde bulundurun:
 
@@ -71,7 +71,7 @@ Doğrudan mesaj (“DM”), bir veya daha fazla diğer üyeye gönderilen özel 
 DM’den mesaj atacağınız kişiye arkadaşlık isteği gönderin. Kabul ettiği taktirde DM üzerinden iletişime geçebilirsiniz.
 Eğer DM üzerinden mesaj almak istemiyorsanız kişisel ayarlarınız üzerinden Direkt Mesajlar kısmını kapatabilirsiniz.
 
-## [Reklam & Spam](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/reklam-&-spam.md)
+## [Reklam ve Spam](https://github.com/patikadev1/topluluk-kurallarimiz/blob/main/reklam-&-spam.md)
 
 Patika discord kanallarımız işe alma, olası satış yaratma, pazarlama ve diğer talepler gibi bariz ticari faaliyetlerin yeri değildir. Topluluğa katkıda bulunmak yerine sadece değer almak için katılırsanız, topluluk hemen fark eder ve size tepki verir. 
 Direkt reklam davranışını belirlemek kolay olsa da, açık olmayan reklam davranışı gri bir alandır. Genel olarak, bir gönderinin reklam olup olmadığını merak ediyorsanız, yönergelerimiz şu şekildedir:
