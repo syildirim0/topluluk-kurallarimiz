@@ -4,16 +4,16 @@ Patika.dev Discord kanalı, yazılımcılar için online bir topluluktur. Bu kan
 
 # İçindekiler
 
-- Kısa Anlatım
-- Uzun Anlatım	
-  * Saygı Duymak	
-  * Gizlilik	
-  * Kanalları Tanıyın	
-  * DM(Direct Message) Tutumumuz	
-  * Reklam & Spam	
-  * Barışçıl Çözümler	
-- Sonuçlar	
-- Yöneticiler	
+- [Kısa Anlatım](#kısa-anlatım)
+- [Uzun Anlatım](#uzun-anlatım)
+  * [Saygı Duymak](#saygı-duymak)
+  * [Gizlilik](#gizlilik)
+  * [Kanalları Tanıyın](#kanalları-tanıyın)
+  * [DM(Direct Message) Tutumumuz](#dm-direct-message-tutumumuz)
+  * [Reklam & Spam](#reklam-&-spam)
+  * [Barışçıl Çözümler](#barışçıl-çözümler)
+- [Sonuçlar](#sonuçlar)
+- [Yöneticiler](#yöneticiler)
 
 # Kısa Anlatım
 
