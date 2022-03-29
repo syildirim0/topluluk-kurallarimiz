@@ -19,7 +19,7 @@ Patika.dev Discord kanalı, yazılımcılar için online bir topluluktur. Bu kan
 
 🙏 Diğer insanlara saygılı olun, özel hayata saygı gösterin,
 
-🤚 Rahatsız olduğunuzda insanlardan saygıyla durmalarını isteyin,
+🤚 Rahatsız olduğunuzda insanlardan saygıylı davranmalarını isteyin,
 
 ⚠ İzinsiz tanıtım ve reklam faaliyetlerine tolerans göstermediğimizi bilin,
 
